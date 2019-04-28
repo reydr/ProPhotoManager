@@ -43,6 +43,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\ControlzEx.3.0.2.4\lib\net462\System.Windows.Interactivity.dll</HintPath>
     </Reference>
@@ -73,7 +74,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Class\Gallery\Gallery.cs" />
-    <Compile Include="Class\Gallery\Image.cs" />
+    <Compile Include="Class\Gallery\Picture.cs" />
+    <Compile Include="Class\INIManager.cs" />
+    <Compile Include="Class\UserInterface.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -82,7 +85,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\PagesPhotoGallery.xaml">
+    <Page Include="Pages\PagePhotoGallery.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -91,8 +94,8 @@
     <Compile Include="Pages\PagePhotoViewWindow.xaml.cs">
       <DependentUpon>PagePhotoViewWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\PagesPhotoGallery.xaml.cs">
-      <DependentUpon>PagesPhotoGallery.xaml</DependentUpon>
+    <Compile Include="Pages\PagePhotoGallery.xaml.cs">
+      <DependentUpon>PagePhotoGallery.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>

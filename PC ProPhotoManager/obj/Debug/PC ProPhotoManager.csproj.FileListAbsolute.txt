@@ -25,3 +25,30 @@ C:\Users\voron\source\repos\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\P
 C:\Users\voron\source\repos\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagesPhotoGallery.g.cs
 C:\Users\voron\source\repos\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoViewWindow.baml
 C:\Users\voron\source\repos\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagesPhotoGallery.baml
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\PC ProPhotoManager.exe.config
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\PC ProPhotoManager.exe
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\PC ProPhotoManager.pdb
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\ControlzEx.dll
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.dll
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\ControlzEx.pdb
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.pdb
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.xml
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\MainWindow.g.cs
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoViewWindow.g.cs
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoGallery.g.cs
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\App.g.cs
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager_MarkupCompile.cache
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager_MarkupCompile.lref
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\App.baml
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\MainWindow.baml
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoViewWindow.baml
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoGallery.baml
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.g.resources
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC_ProPhotoManager.Properties.Resources.resources
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.GenerateResource.cache
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.CoreCompileInputs.cache
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.CopyComplete
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.exe
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.pdb
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csprojAssemblyReference.cache
