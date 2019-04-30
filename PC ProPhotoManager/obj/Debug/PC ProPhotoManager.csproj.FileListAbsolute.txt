@@ -34,6 +34,7 @@ C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\S
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\ControlzEx.pdb
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.pdb
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.xml
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csprojAssemblyReference.cache
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\MainWindow.g.cs
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoViewWindow.g.cs
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoGallery.g.cs
@@ -51,4 +52,3 @@ C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\P
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.CopyComplete
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.exe
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.pdb
-C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csprojAssemblyReference.cache
