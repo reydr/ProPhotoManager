@@ -52,4 +52,3 @@ C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\P
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.CopyComplete
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.exe
 C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.pdb
-C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csprojAssemblyReference.cache

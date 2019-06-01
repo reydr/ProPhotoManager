@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\1\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\
 PC_ProPhotoManager
 none
 false
 DEBUG;TRACE
-C:\Users\1\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\App.xaml
+C:\Users\voron\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\App.xaml
 31527534571
 
-11-1678612161
-1799369819
+13986381953
+171508517474
 MainWindow.xaml;Pages\PagePhotoViewWindow.xaml;Pages\PagePhotoGallery.xaml;
 
-False
+True
 
