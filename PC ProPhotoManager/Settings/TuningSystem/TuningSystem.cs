@@ -9,7 +9,5 @@ namespace PC_ProPhotoManager.Settings.TuningSystem
     public class TuningSystem
     {
         public List<TuningSystem> FilesSettings { get; private set; } = new List<TuningSystem>();
-
-
     }
 }
