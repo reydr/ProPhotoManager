@@ -12,7 +12,7 @@ namespace PC_ProPhotoManager.Class.Gallery
     {
         private static readonly Gallery instance = new Gallery(DirectoryPath, ListPhoto);
 
-        private Int32 ImageIndex { get; set; }
+        private int ImageIndex { get; set; }
 
         private static string DirectoryPath { get; set; }
 
@@ -97,11 +97,6 @@ namespace PC_ProPhotoManager.Class.Gallery
             }
 
             return images[ImageIndex];
-        }
-
-        public void SaveSettings()
-        {
-
         }
     }
 }

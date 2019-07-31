@@ -3,7 +3,7 @@ using System.IO;
 
 using MahApps.Metro.Controls;
 
-using PC_ProPhotoManager.Class;
+using PC_ProPhotoManager.Settings.TuningSystem;
 
 namespace PC_ProPhotoManager
 {
@@ -14,7 +14,7 @@ namespace PC_ProPhotoManager
         {
             InitializeComponent();
 
-            WindowState = WindowState.Maximized;         
+            WindowState = WindowState.Maximized;
         }
     }
 }
