@@ -16,7 +16,7 @@ namespace PC_ProPhotoManager.Pages
 
         private void PhotoList_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-
+            
         }
     }
 }
