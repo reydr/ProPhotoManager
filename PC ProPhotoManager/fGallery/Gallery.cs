@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -6,30 +7,35 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Imaging;
 
-namespace PC_ProPhotoManager.Class.Gallery
+namespace PC_ProPhotoManager.fGallery
 {
     public class Gallery
-    {
-        private static readonly Gallery instance = new Gallery(DirectoryPath, ListPhoto);
-
-        private int ImageIndex { get; set; }
-
+    {       
         private static string DirectoryPath { get; set; }
+
+        private static Gallery instance;
+        private int ImageIndex { get; set; }
 
         public List<string> LinksToPictures { get; private set; } = new List<string>();
         public List<BitmapImage> images = new List<BitmapImage>();
 
         private static ListBox ListPhoto { get; set; }
+        //public IEnumerable ImageList { get; set; }
 
-        public Gallery(string directoryPath, ListBox listPhoto)
+        private Gallery(string directoryPath, ListBox listPhoto)
         {
             Initialization(directoryPath, listPhoto);
         }
 
         public static Gallery GetInstance(string directoryPath, ListBox listPhoto)
         {
-            DirectoryPath = directoryPath;
-            ListPhoto = listPhoto;
+            if (instance == null)
+            {
+                DirectoryPath = directoryPath;
+                ListPhoto = listPhoto;
+
+                instance = new Gallery(DirectoryPath, ListPhoto);
+            }
 
             return instance;
         }

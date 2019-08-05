@@ -66,6 +66,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Settings\TuningSystem\GeneralSetting.cs" />
+    <Compile Include="Settings\TuningSystem\SettingsFile.cs" />
     <Compile Include="Settings\TuningSystem\INIManager.cs" />
     <Compile Include="Settings\TuningSystem\TuningSystem.cs" />
     <Page Include="MainWindow.xaml">
@@ -76,7 +78,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Gallery\Gallery.cs" />
+    <Compile Include="fGallery\Gallery.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
