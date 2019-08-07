@@ -1,26 +1,25 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Imaging;
 
-namespace PC_ProPhotoManager.fGallery
+namespace PC_ProPhotoManager.Gallery
 {
     public class Gallery
-    {       
-        private static string DirectoryPath { get; set; }
+    {
+        private static Gallery instance = null;
+        private static string DirectoryPath { get; set; }      
 
-        private static Gallery instance;
+        private static ListBox ListPhoto { get; set; }
+
         private int ImageIndex { get; set; }
 
         public List<string> LinksToPictures { get; private set; } = new List<string>();
         public List<BitmapImage> images = new List<BitmapImage>();
-
-        private static ListBox ListPhoto { get; set; }
-        //public IEnumerable ImageList { get; set; }
 
         private Gallery(string directoryPath, ListBox listPhoto)
         {

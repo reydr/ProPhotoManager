@@ -88,6 +88,7 @@ C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\Syst
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\ControlzEx.pdb
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.pdb
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.xml
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csprojAssemblyReference.cache
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\MainWindow.g.cs
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoViewWindow.g.cs
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoGallery.g.cs
@@ -105,4 +106,3 @@ C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC P
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.CopyComplete
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.exe
 C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.pdb
-C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csprojAssemblyReference.cache

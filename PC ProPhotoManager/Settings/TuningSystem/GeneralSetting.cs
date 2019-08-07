@@ -1,16 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
-using System.Windows;
+﻿using System.IO;
 
 namespace PC_ProPhotoManager.Settings.TuningSystem
 {
-    public class GeneralSetting : SettingsFile
+    public class GeneralSetting
     {
-        private static GeneralSetting instance;
+        private static GeneralSetting instance = null;
+
+        public string DirectoryPath { get; set; }
+
+        private GeneralSetting()
+        {
+
+        }
 
         public static GeneralSetting GetInstance()
         {
@@ -22,46 +23,9 @@ namespace PC_ProPhotoManager.Settings.TuningSystem
             return instance;
         }
 
-        private static INIManager manager;
-        private readonly static string Name = "CustomSetting.ini";
-
-        private GeneralSetting()
-        {
-            manager = new INIManager($"../../Settings/ConfigurationFile/{Name}");
-
-            Initialization();
-        }
-
-        private string directoryPath;
-
-        public string DirectoryPath
-        {
-            get
-            {
-                return directoryPath;
-            }
-
-            set
-            {
-                manager.WritePrivateString("Resources", "DirectoryPath", value);
-                directoryPath = value;
-            }
-        }
-
         private void Initialization()
         {
-            //INIManager manager = new INIManager($"{Path}/{Name}");
 
-            if (File.Exists($"../../Settings/ConfigurationFile/{Name}")) //Здесь и начинается пакасть !!!
-            {
-                DirectoryPath = manager.GetPrivateString("Resources", "DirectoryPath");
-            }
-            else
-            {
-                File.Create($"../../Settings/ConfigurationFile/{Name}");
-
-                manager.WritePrivateString("Resources", "DirectoryPath", " ");
-            }
         }
     }
 }

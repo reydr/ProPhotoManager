@@ -1,22 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
+﻿
 
 namespace PC_ProPhotoManager.Settings.TuningSystem
 {
-
     public class TuningSystem
     {
-        private static readonly TuningSystem instance = new TuningSystem();
+        private static TuningSystem instance = null;
 
-        private TuningSystem()
+        protected TuningSystem()
         {
-            
+
         }
 
         public static TuningSystem GetInstance()
         {
+            if (instance == null)
+            {
+                instance = new TuningSystem();
+            }
+
             return instance;
         }
+
+        //protected string
     }
 }
