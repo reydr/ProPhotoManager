@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PC_ProPhotoManager.Settings.TuningSystem;
 
 namespace PC_ProPhotoManager.Settings.TuningSystem.SettingFileClass
 {
@@ -18,7 +19,9 @@ namespace PC_ProPhotoManager.Settings.TuningSystem.SettingFileClass
 
         }
 
-        private string directoryPath;
+        public string directoryPath;
+
+        private SettingsLoader settingsLoader = SettingsLoader.GetInstance();
 
         public static GeneralSettingsFile GetInstance()
         {
@@ -30,16 +33,16 @@ namespace PC_ProPhotoManager.Settings.TuningSystem.SettingFileClass
             return instance;
         }
 
-        //private void Initialization()
-        //{
-        //    if (File.Exists($"../../Settings/ConfigurationFile/{Name}"))
-        //    {
+        private void Initialization()
+        {
+            if (File.Exists($"../../Settings/ConfigurationFile/{name}"))
+            {
                 
-        //    }
-        //    else
-        //    {
-        //        File.Create($"../../Settings/ConfigurationFile/{Name}");
-        //    }
-        //}
+            }
+            else
+            {
+                File.Create($"../../Settings/ConfigurationFile/{name}");
+            }
+        }
     }
 }

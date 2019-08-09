@@ -8,12 +8,10 @@ namespace PC_ProPhotoManager.Settings.TuningSystem
     {
         private static SettingsLoader instance = null;
 
-        private static readonly INIManager manager;
+        private static readonly string Path = $"{AppDomain.CurrentDomain.BaseDirectory}/Settings/TuningSystem";
 
-        protected static readonly string Path = $"{AppDomain.CurrentDomain.BaseDirectory}/Settings/TuningSystem";
-
-        private static readonly Hashtable FileLocation = new Hashtable();
-        private readonly ICollection keys = FileLocation.Keys;
+        private readonly Hashtable FilesLocations = new Hashtable();
+        private readonly INIManager manager;
 
         public static SettingsLoader GetInstance()
         {
@@ -32,7 +30,21 @@ namespace PC_ProPhotoManager.Settings.TuningSystem
 
         private void Initialization()
         {
-            FileLocation.Add("GeneralSetting", $"{Path}/{GeneralSetting.GetInstance()}");
+            FilesLocations.Add("GeneralSetting", $"{Path}/{GeneralSetting.GetInstance()}");
+        }
+
+        public string GetKey(string nameF, string key)
+        {
+            manager.Path = $"{Path}/{nameF}";
+
+            return manager.GetPrivateString(nameF.Split('.')[0], key);
+        }
+
+        public void WriteStr(string nameF, string key, string section, string value)
+        {
+            manager.Path = $"{Path}/{nameF}";
+
+            manager.WritePrivateString(section, key, value);
         }
     }
 }
