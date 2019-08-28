@@ -76,7 +76,7 @@ namespace PC_ProPhotoManager.Gallery
             {
                 BitmapImage bitmapImage = new BitmapImage(new Uri(i));
 
-                Image image = new Image();
+                //Image image = new Image();
 
                 images.Add(bitmapImage);
             }
