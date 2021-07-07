@@ -1,6 +1,4 @@
-﻿
-//  Встроенные библиотеки
-using System.Runtime.InteropServices;
+﻿using System.Runtime.InteropServices;
 using System.Text;
 
 namespace PC_ProPhotoManager.Settings.TuningSystem

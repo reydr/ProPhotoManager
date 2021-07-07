@@ -1,5 +1,4 @@
 ﻿using System.Windows;
-using System.IO;
 
 using MahApps.Metro.Controls;
 
@@ -14,7 +13,7 @@ namespace PC_ProPhotoManager
         {
             InitializeComponent();
 
-            WindowState = WindowState.Maximized;
+            WindowState = WindowState.Maximized;    
         }
     }
 }

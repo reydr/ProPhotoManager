@@ -79,3 +79,30 @@ C:\Users\Null\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC
 C:\Users\Null\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.CopyComplete
 C:\Users\Null\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.exe
 C:\Users\Null\Source\Repos\reydr\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.pdb
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\PC ProPhotoManager.exe.config
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\PC ProPhotoManager.exe
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\PC ProPhotoManager.pdb
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\ControlzEx.dll
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.dll
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\ControlzEx.pdb
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.pdb
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\bin\Debug\MahApps.Metro.xml
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csprojAssemblyReference.cache
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\MainWindow.g.cs
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoViewWindow.g.cs
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoGallery.g.cs
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\App.g.cs
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager_MarkupCompile.cache
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager_MarkupCompile.lref
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\App.baml
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\MainWindow.baml
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoViewWindow.baml
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\Pages\PagePhotoGallery.baml
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.g.resources
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC_ProPhotoManager.Properties.Resources.resources
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.GenerateResource.cache
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.CoreCompileInputs.cache
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.csproj.CopyComplete
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.exe
+C:\Users\Null\Documents\GitHub\ProPhotoManager\PC ProPhotoManager\obj\Debug\PC ProPhotoManager.pdb

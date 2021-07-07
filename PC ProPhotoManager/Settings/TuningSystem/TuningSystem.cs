@@ -1,30 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
+﻿
 
 namespace PC_ProPhotoManager.Settings.TuningSystem
 {
-
     public class TuningSystem
     {
+        private static TuningSystem instance = null;
 
-        private static readonly TuningSystem instance = new TuningSystem();
+        protected TuningSystem()
+        {
 
-        private TuningSystem() { }
+        }
 
         public static TuningSystem GetInstance()
         {
+            if (instance == null)
+            {
+                instance = new TuningSystem();
+            }
+
             return instance;
         }
 
-        public FileStream customSetting { get; set; } = null;
-            //new FileStream($"{AppDomain.CurrentDomain.BaseDirectory}/Settings/ConfigurationFile", FileMode.CreateNew);
-
-        public static List<FileStream> ConfigurationFile = new List<FileStream>();
-
-        private void Initialization()
-        {
-
-        }
+        //protected string
     }
 }
